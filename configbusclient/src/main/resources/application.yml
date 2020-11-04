@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sc-config-client
+
+server:
+  port: 8112
